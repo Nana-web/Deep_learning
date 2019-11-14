@@ -7,3 +7,4 @@ https://github.com/sim0nsays/dlcourse_ai/blob/master/assignments/assignment4/Hot
 https://github.com/albu/albumentations
 https://www.jessicayung.com/lstms-for-time-series-in-pytorch/
 https://github.com/ageitgey/face_recognition
+https://github.com/natasha/natasha
